@@ -1,0 +1,17 @@
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System obsługi napraw.csprojAssemblyReference.cache
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System_obsługi_napraw.Activities.resources
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System_obsługi_napraw.Activity.resources
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System_obsługi_napraw.Object.resources
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System_obsługi_napraw.Objects.resources
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System_obsługi_napraw.Properties.Resources.resources
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System_obsługi_napraw.Request.resources
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System_obsługi_napraw.Requests.resources
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System obsługi napraw.csproj.GenerateResource.cache
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System obsługi napraw.csproj.CoreCompileInputs.cache
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\bin\Debug\System obsługi napraw.exe.config
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\bin\Debug\System obsługi napraw.exe
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\bin\Debug\System obsługi napraw.pdb
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System obsługi napraw.exe
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System obsługi napraw.pdb
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System_obsługi_napraw.LogIn.resources
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System_obsługi_napraw.SelectWorker.resources

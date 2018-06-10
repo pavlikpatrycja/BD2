@@ -16,7 +16,7 @@ namespace System_obsługi_napraw
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new DlaManagera());
+            Application.Run(new Objects());
         }
     }
 }

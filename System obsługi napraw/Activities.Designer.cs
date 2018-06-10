@@ -50,7 +50,6 @@
             this.dt_fin_cancel = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
@@ -220,16 +219,6 @@
             this.button6.Text = "Edit activity";
             this.button6.UseVisualStyleBackColor = true;
             // 
-            // button3
-            // 
-            this.button3.Cursor = System.Windows.Forms.Cursors.No;
-            this.button3.Location = new System.Drawing.Point(608, 207);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(96, 26);
-            this.button3.TabIndex = 28;
-            this.button3.Text = "Update status";
-            this.button3.UseVisualStyleBackColor = true;
-            // 
             // button2
             // 
             this.button2.Cursor = System.Windows.Forms.Cursors.No;
@@ -265,7 +254,6 @@
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button6);
-            this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.button1);
@@ -309,7 +297,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn dt_fin_cancel;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.Label label5;

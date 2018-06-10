@@ -240,7 +240,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(96, 23);
             this.button3.TabIndex = 65;
-            this.button3.Text = "Cancel";
+            this.button3.Text = "Back";
             this.button3.UseVisualStyleBackColor = true;
             // 
             // button4

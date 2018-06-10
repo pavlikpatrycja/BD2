@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace System_obsługi_napraw
 {
-    public partial class Objects : Form
+    public partial class SelectWorker : Form
     {
-        public Objects()
+        public SelectWorker()
         {
             InitializeComponent();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

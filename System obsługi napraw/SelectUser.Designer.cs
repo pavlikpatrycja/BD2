@@ -1,6 +1,6 @@
 ﻿namespace System_obsługi_napraw
 {
-    partial class SelectWorker
+    partial class SelectUser
     {
         /// <summary>
         /// Required designer variable.
@@ -128,7 +128,7 @@
             this.button2.Text = "Back";
             this.button2.UseVisualStyleBackColor = true;
             // 
-            // SelectWorker
+            // SelectUser
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -141,8 +141,8 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
-            this.Name = "SelectWorker";
-            this.Text = "SelectWorker";
+            this.Name = "SelectUser";
+            this.Text = "SelectUser";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

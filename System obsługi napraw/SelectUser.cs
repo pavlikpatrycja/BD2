@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace System_obsługi_napraw
 {
-    public partial class SelectWorker : Form
+    public partial class SelectUser : Form
     {
-        public SelectWorker()
+        public SelectUser()
         {
             InitializeComponent();
         }

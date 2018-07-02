@@ -14,4 +14,6 @@ C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\Syst
 C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System obsługi napraw.exe
 C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System obsługi napraw.pdb
 C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System_obsługi_napraw.LogIn.resources
-C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System_obsługi_napraw.SelectWorker.resources
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System_obsługi_napraw.AdminView.resources
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System_obsługi_napraw.CreateUser.resources
+C:\Users\patrp\Documents\Visual Studio 2017\Projects\System obsługi napraw\System obsługi napraw\obj\Debug\System_obsługi_napraw.SelectUser.resources
